@@ -1,5 +1,4 @@
-     html,body
-    {
+     html,body {
         margin: 0 auto; 
         padding: 0;
         min-height: 100%;
@@ -13,11 +12,9 @@
         padding: 10px;
         border: 1px solid red;
         background: yellow;
-
     }
     h1 {
         text-align: center;
-
     }
     div h1 {
         text-align: right;
@@ -27,11 +24,9 @@
         color: white;
         text-align: center;
         font-size: 0.97em;
-
-}
+    }
     i b{
         color: red;
-
     }
     p > span {
         font-size: 1.5em;
@@ -40,5 +35,4 @@
     }
     span span{
         color: red
-
     }
